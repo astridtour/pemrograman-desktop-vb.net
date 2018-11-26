@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\bin\Debug\menentukan nama hari UAs.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\bin\Debug\menentukan nama hari UAs.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\bin\Debug\menentukan nama hari UAs.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\menentukan_nama_hari_UAs.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\menentukan_nama_hari_UAs.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\menentukan nama hari UAs.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\menentukan nama hari UAs.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menentukan nama hari UAs\obj\x86\Debug\menentukan nama hari UAs.pdb

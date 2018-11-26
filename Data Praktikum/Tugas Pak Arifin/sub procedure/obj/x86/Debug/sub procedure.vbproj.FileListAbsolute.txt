@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\bin\Debug\sub procedure.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\bin\Debug\sub procedure.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\bin\Debug\sub procedure.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\sub_procedure.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\sub_procedure.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\sub procedure.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\sub procedure.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\sub procedure\obj\x86\Debug\sub procedure.pdb

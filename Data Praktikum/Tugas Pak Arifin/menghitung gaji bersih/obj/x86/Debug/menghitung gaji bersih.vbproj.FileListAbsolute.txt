@@ -1,0 +1,33 @@
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.exe
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.pdb
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.xml
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\menghitung_gaji_bersih.Form1.resources
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\menghitung_gaji_bersih.Resources.resources
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.exe
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.xml
+D:\Data Praktikum\pak Arifin\program ujian\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\menghitung_gaji_bersih.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\menghitung_gaji_bersih.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\menghitung gaji bersih\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\menghitung gaji bersih.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\bin\Debug\menghitung gaji bersih.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\menghitung_gaji_bersih.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\menghitung_gaji_bersih.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung gaji bersih\obj\x86\Debug\GenerateResource.write.1.tlog

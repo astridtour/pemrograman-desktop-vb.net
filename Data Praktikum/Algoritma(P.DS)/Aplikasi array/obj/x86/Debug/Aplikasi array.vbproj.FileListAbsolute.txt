@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\Aplikasi_array.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\Aplikasi_array.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\bin\Debug\Aplikasi array.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\bin\Debug\Aplikasi array.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\bin\Debug\Aplikasi array.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\Aplikasi array.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\Aplikasi array.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Aplikasi array\obj\x86\Debug\Aplikasi array.pdb

@@ -1,0 +1,20 @@
+   Jam Kerja (JK)
+   Jam Normal (JN)
+   Jam Lembur (JL)
+   Gaji Kotor (GK)
+   Pajak Penghasilan (ppH)
+   JN=200
+   Input(JK)
+   IF (JK>200) THEN
+        JL=JK-JN
+   ELSE
+        JL=0
+   END IF
+   GK = (JN * 15000) + (JL * 35000)
+   ppH = 0.1 * GK
+
+   contoh :
+   JK = 236
+   JL = 236-200 = 36
+   GK = (200*15000) + (36*35000)
+   ppH = 0.1 * GK

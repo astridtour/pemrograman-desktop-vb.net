@@ -1,0 +1,20 @@
+E:\DAPRI\vb.net console\tugas matriks\bin\Debug\tugas matriks.exe
+E:\DAPRI\vb.net console\tugas matriks\bin\Debug\tugas matriks.pdb
+E:\DAPRI\vb.net console\tugas matriks\bin\Debug\tugas matriks.xml
+E:\DAPRI\vb.net console\tugas matriks\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\vb.net console\tugas matriks\obj\x86\Debug\tugas_matriks.Resources.resources
+E:\DAPRI\vb.net console\tugas matriks\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\vb.net console\tugas matriks\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\vb.net console\tugas matriks\obj\x86\Debug\tugas matriks.exe
+E:\DAPRI\vb.net console\tugas matriks\obj\x86\Debug\tugas matriks.xml
+E:\DAPRI\vb.net console\tugas matriks\obj\x86\Debug\tugas matriks.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\obj\x86\Debug\tugas matriks.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\obj\x86\Debug\tugas matriks.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\obj\x86\Debug\tugas matriks.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\bin\Debug\tugas matriks.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\bin\Debug\tugas matriks.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\bin\Debug\tugas matriks.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\obj\x86\Debug\tugas_matriks.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\tugas matriks\obj\x86\Debug\GenerateResource.write.1.tlog

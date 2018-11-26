@@ -1,0 +1,14 @@
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\bin\Debug\Aplikasi SDI.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\bin\Debug\Aplikasi SDI.pdb
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\bin\Debug\Aplikasi SDI.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\Aplikasi_SDI.Form1.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\Aplikasi_SDI.Form2.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\Aplikasi_SDI.Resources.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\Aplikasi SDI.vbproj.GenerateResource.Cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\Aplikasi SDI.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\Aplikasi SDI.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi SDI\obj\Debug\Aplikasi SDI.pdb
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi SDI\obj\Debug\Aplikasi SDI.exe
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi SDI\obj\Debug\Aplikasi SDI.xml
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi SDI\obj\Debug\Aplikasi SDI.pdb

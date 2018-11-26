@@ -1,0 +1,14 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\bin\Debug\Tugas Akhir Semester.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\bin\Debug\Tugas Akhir Semester.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\bin\Debug\Tugas Akhir Semester.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas_Akhir_Semester.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas_Akhir_Semester.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas Akhir Semester.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas Akhir Semester.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas Akhir Semester.pdb
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas Akhir Semester.exe
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas Akhir Semester.xml
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Tugas Akhir Semester\obj\x86\Debug\Tugas Akhir Semester.pdb

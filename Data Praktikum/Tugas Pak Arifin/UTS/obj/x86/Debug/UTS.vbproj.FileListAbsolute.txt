@@ -1,0 +1,54 @@
+D:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\UTS.exe
+D:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\UTS.pdb
+D:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\UTS.xml
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.Form1.resources
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.Resources.resources
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.exe
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.xml
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.pdb
+D:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\Interop.WMPLib.dll
+D:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\AxInterop.WMPLib.dll
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\Interop.WMPLib.dll
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.vbproj.ResolveComReference.cache
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\Interop.WMPLib.dll
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.vbproj.ResolveComReference.cache
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.exe
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.xml
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.pdb
+E:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\UTS.exe
+E:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\UTS.pdb
+E:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\UTS.xml
+E:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\Interop.WMPLib.dll
+E:\Data Praktikum\pak Arifin\program ujian\UTS\bin\Debug\AxInterop.WMPLib.dll
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.Form1.resources
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\UTS.Resources.resources
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data Praktikum\pak Arifin\program ujian\UTS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\Interop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\UTS.vbproj.ResolveComReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\UTS.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\UTS.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\UTS.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\bin\Debug\UTS.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\bin\Debug\UTS.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\bin\Debug\UTS.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\bin\Debug\Interop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\bin\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\UTS.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\UTS.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\UTS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\UTS\obj\x86\Debug\Interop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\UTS\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\UTS\obj\x86\Debug\UTS.vbproj.ResolveComReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\UTS\obj\x86\Debug\UTS.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\UTS\obj\x86\Debug\UTS.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\UTS\obj\x86\Debug\UTS.pdb

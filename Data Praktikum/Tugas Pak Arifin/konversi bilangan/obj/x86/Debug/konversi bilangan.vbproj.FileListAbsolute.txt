@@ -1,0 +1,22 @@
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\bin\Debug\konversi bilangan.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\bin\Debug\konversi bilangan.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\bin\Debug\konversi bilangan.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\konversi_bilangan.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\konversi_bilangan.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\konversi bilangan.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\konversi bilangan.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\konversi bilangan\obj\x86\Debug\konversi bilangan.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\konversi bilangan.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\konversi bilangan.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\konversi bilangan.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\bin\Debug\konversi bilangan.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\bin\Debug\konversi bilangan.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\bin\Debug\konversi bilangan.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\konversi_bilangan.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\konversi_bilangan.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\konversi bilangan\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,33 @@
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.exe
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.pdb
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.xml
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.Form1.resources
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.Resources.resources
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.exe
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.xml
+C:\Users\astrrid\Documents\Visual Studio 2010\Projects\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.Form1.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.Resources.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Tugas1Praktikum\Tugas1Praktikum\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\bin\Debug\Tugas1Praktikum.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\Tugas1Praktikum.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Pertukaran Nilai\Tugas1Praktikum\obj\x86\Debug\GenerateResource.write.1.tlog

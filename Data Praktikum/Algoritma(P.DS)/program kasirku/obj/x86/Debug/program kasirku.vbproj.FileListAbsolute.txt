@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\bin\Debug\program kasirku.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\bin\Debug\program kasirku.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\bin\Debug\program kasirku.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\program_kasirku.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\program_kasirku.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\program kasirku.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\program kasirku.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program kasirku\obj\x86\Debug\program kasirku.pdb

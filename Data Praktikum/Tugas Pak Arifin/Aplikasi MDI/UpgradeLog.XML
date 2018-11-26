@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Aplikasi MDI">
+</Property><Property Name="Solution File" Value="E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Aplikasi MDI.sln">
+</Property><Property Name="User Options File" Value="E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Aplikasi MDI.suo">
+</Property><Property Name="Date" Value="Wednesday, January 18, 2017">
+</Property><Property Name="Time" Value="20:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Aplikasi MDI.sln" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Aplikasi MDI.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Aplikasi MDI.suo" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Aplikasi MDI.suo">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Aplikasi MDI.vbproj" Description="Project file successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Aplikasi MDI.vbproj">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Aplikasi MDI.vbproj.user" Description="Project user file successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Aplikasi MDI.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Form1.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Form1.Designer.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Form2.Designer.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Form2.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="My Project\Application.myapp" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="My Project\Settings.settings" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Form1.resx" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Form2.resx" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="My Project\Resources.resx" Description="File successfully backed up as E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Aplikasi MDI.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Aplikasi MDI" Source="Aplikasi MDI.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Aplikasi MDI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Aplikasi MDI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Aplikasi MDI" Source="Aplikasi MDI.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

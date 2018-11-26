@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\menampilkan_nama_hari.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\menampilkan_nama_hari.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\bin\Debug\menampilkan nama hari.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\bin\Debug\menampilkan nama hari.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\bin\Debug\menampilkan nama hari.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\menampilkan nama hari.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\menampilkan nama hari.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\menampilkan nama hari\obj\x86\Debug\menampilkan nama hari.pdb

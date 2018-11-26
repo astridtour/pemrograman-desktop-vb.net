@@ -1,0 +1,33 @@
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\bin\Debug\kalkulator.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\bin\Debug\kalkulator.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\bin\Debug\kalkulator.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\bin\Debug\kalkulator.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\bin\Debug\kalkulator.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\bin\Debug\kalkulator.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\kalkulator.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Pemrograman VB.Net Dasar\kalkulator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\kalkulator.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\kalkulator.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\kalkulator.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\bin\Debug\kalkulator.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\bin\Debug\kalkulator.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\bin\Debug\kalkulator.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\kalkulator.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\kalkulator.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\kalkulator\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\bin\Debug\LATIHAN 5.1.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\bin\Debug\LATIHAN 5.1.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\bin\Debug\LATIHAN 5.1.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\LATIHAN_5._1.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\LATIHAN_5._1.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\LATIHAN 5.1.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\LATIHAN 5.1.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\SUM.MAX.MIN.AVERAGE\obj\x86\Debug\LATIHAN 5.1.pdb

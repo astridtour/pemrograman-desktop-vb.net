@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\bin\Debug\Program Kasir Toko XYZ.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\bin\Debug\Program Kasir Toko XYZ.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\bin\Debug\Program Kasir Toko XYZ.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\Program_Kasir_Toko_XYZ.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\Program_Kasir_Toko_XYZ.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\Program Kasir Toko XYZ.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\Program Kasir Toko XYZ.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\Program Kasir Toko XYZ\obj\x86\Debug\Program Kasir Toko XYZ.pdb

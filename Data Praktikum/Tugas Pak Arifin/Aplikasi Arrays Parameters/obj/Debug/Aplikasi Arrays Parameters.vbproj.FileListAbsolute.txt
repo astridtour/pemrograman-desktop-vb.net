@@ -1,0 +1,22 @@
+D:\Aplikasi Arrays Parameters\bin\Debug\Aplikasi Arrays Parameters.exe
+D:\Aplikasi Arrays Parameters\bin\Debug\Aplikasi Arrays Parameters.pdb
+D:\Aplikasi Arrays Parameters\bin\Debug\Aplikasi Arrays Parameters.xml
+D:\Aplikasi Arrays Parameters\obj\Debug\ResolveAssemblyReference.cache
+D:\Aplikasi Arrays Parameters\obj\Debug\WindowsApplication1.Form1.resources
+D:\Aplikasi Arrays Parameters\obj\Debug\WindowsApplication1.Resources.resources
+D:\Aplikasi Arrays Parameters\obj\Debug\ResGen.read.1.tlog
+D:\Aplikasi Arrays Parameters\obj\Debug\ResGen.write.1.tlog
+D:\Aplikasi Arrays Parameters\obj\Debug\Aplikasi Arrays Parameters.exe
+D:\Aplikasi Arrays Parameters\obj\Debug\Aplikasi Arrays Parameters.xml
+D:\Aplikasi Arrays Parameters\obj\Debug\Aplikasi Arrays Parameters.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\Aplikasi Arrays Parameters.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\Aplikasi Arrays Parameters.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\Aplikasi Arrays Parameters.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\bin\Debug\Aplikasi Arrays Parameters.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\bin\Debug\Aplikasi Arrays Parameters.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\bin\Debug\Aplikasi Arrays Parameters.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\WindowsApplication1.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\WindowsApplication1.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\ResGen.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi Arrays Parameters\obj\Debug\ResGen.write.1.tlog

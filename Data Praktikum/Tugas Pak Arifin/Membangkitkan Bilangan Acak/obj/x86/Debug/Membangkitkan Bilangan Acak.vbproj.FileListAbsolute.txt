@@ -1,0 +1,38 @@
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Membangkitkan Bilangan Acak.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Membangkitkan Bilangan Acak.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Membangkitkan Bilangan Acak.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan_Bilangan_Acak.Form1.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan_Bilangan_Acak.Resources.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Interop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\AxInterop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Interop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.vbproj.ResolveComReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Interop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.vbproj.ResolveComReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Membangkitkan Bilangan Acak.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Membangkitkan Bilangan Acak.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Membangkitkan Bilangan Acak.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\Interop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\bin\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan_Bilangan_Acak.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan_Bilangan_Acak.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Membangkitkan Bilangan Acak\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Membangkitkan Bilangan Acak\obj\x86\Debug\Interop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Membangkitkan Bilangan Acak\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.vbproj.ResolveComReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Membangkitkan Bilangan Acak\obj\x86\Debug\Membangkitkan Bilangan Acak.pdb

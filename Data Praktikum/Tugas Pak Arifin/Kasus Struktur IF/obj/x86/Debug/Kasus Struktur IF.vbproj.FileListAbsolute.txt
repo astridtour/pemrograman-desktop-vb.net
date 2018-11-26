@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\Kasus_Struktur_IF.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\Kasus_Struktur_IF.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\bin\Debug\Kasus Struktur IF.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\bin\Debug\Kasus Struktur IF.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\bin\Debug\Kasus Struktur IF.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\Kasus Struktur IF.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\Kasus Struktur IF.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Kasus Struktur IF\obj\x86\Debug\Kasus Struktur IF.pdb

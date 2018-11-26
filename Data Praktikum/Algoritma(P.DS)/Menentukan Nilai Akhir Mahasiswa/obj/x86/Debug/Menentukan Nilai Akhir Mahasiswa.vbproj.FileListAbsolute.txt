@@ -1,0 +1,11 @@
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\Menentukan_Nilai_Akhir_Mahasiswa.Form1.resources
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\Menentukan_Nilai_Akhir_Mahasiswa.Resources.resources
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\bin\Debug\Menentukan Nilai Akhir Mahasiswa.exe
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\bin\Debug\Menentukan Nilai Akhir Mahasiswa.pdb
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\bin\Debug\Menentukan Nilai Akhir Mahasiswa.xml
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\Menentukan Nilai Akhir Mahasiswa.exe
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\Menentukan Nilai Akhir Mahasiswa.xml
+D:\Data Praktikum\Algoritma(P.DS)\Menentukan Nilai Akhir Mahasiswa\obj\x86\Debug\Menentukan Nilai Akhir Mahasiswa.pdb

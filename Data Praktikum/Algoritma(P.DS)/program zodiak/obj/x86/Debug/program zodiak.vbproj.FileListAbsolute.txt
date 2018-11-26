@@ -1,0 +1,14 @@
+D:\Data Praktikum\algoritma\program zodiak\bin\Debug\program zodiak.exe
+D:\Data Praktikum\algoritma\program zodiak\bin\Debug\program zodiak.pdb
+D:\Data Praktikum\algoritma\program zodiak\bin\Debug\program zodiak.xml
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\program_zodiak.Form1.resources
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\program_zodiak.Resources.resources
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\program zodiak.exe
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\program zodiak.xml
+D:\Data Praktikum\algoritma\program zodiak\obj\x86\Debug\program zodiak.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program zodiak\obj\x86\Debug\program zodiak.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program zodiak\obj\x86\Debug\program zodiak.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Algoritma(P.DS)\program zodiak\obj\x86\Debug\program zodiak.pdb

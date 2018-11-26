@@ -1,0 +1,20 @@
+E:\DAPRI\vb.net console\function\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\vb.net console\function\obj\x86\Debug\function.Resources.resources
+E:\DAPRI\vb.net console\function\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\vb.net console\function\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\vb.net console\function\bin\Debug\function.exe
+E:\DAPRI\vb.net console\function\bin\Debug\function.pdb
+E:\DAPRI\vb.net console\function\bin\Debug\function.xml
+E:\DAPRI\vb.net console\function\obj\x86\Debug\function.exe
+E:\DAPRI\vb.net console\function\obj\x86\Debug\function.xml
+E:\DAPRI\vb.net console\function\obj\x86\Debug\function.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\obj\x86\Debug\function.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\obj\x86\Debug\function.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\obj\x86\Debug\function.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\bin\Debug\function.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\bin\Debug\function.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\bin\Debug\function.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\obj\x86\Debug\function.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\vb.net console\function\obj\x86\Debug\GenerateResource.write.1.tlog

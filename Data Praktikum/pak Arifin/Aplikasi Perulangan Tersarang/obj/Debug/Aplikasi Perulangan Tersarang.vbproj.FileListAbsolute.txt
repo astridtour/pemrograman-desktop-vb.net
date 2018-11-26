@@ -1,0 +1,24 @@
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\bin\Debug\Aplikasi Perulangan Tersarang.exe
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\bin\Debug\Aplikasi Perulangan Tersarang.pdb
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\bin\Debug\Aplikasi Perulangan Tersarang.xml
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\WindowsApplication1.Form1.resources
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\WindowsApplication1.Resources.resources
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\Aplikasi Perulangan Tersarang.exe
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\Aplikasi Perulangan Tersarang.xml
+D:\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\Aplikasi Perulangan Tersarang.pdb
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\Aplikasi Perulangan Tersarang.exe
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\Aplikasi Perulangan Tersarang.xml
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\Aplikasi Perulangan Tersarang.pdb
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\bin\Debug\Aplikasi Perulangan Tersarang.exe
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\bin\Debug\Aplikasi Perulangan Tersarang.pdb
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\bin\Debug\Aplikasi Perulangan Tersarang.xml
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\WindowsApplication1.Form1.resources
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\WindowsApplication1.Resources.resources
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\ResGen.read.1.tlog
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\DAPRI\Data Praktikum\pak Arifin\Aplikasi Perulangan Tersarang\obj\Debug\ResGen.write.1.tlog

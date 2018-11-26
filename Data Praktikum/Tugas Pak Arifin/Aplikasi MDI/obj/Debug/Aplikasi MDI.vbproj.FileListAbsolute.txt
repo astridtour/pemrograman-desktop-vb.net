@@ -1,0 +1,34 @@
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\bin\Debug\Aplikasi MDI.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\bin\Debug\Aplikasi MDI.pdb
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\bin\Debug\Aplikasi MDI.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Form1.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Form2.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Resources.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\Aplikasi MDI.vbproj.GenerateResource.Cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\Aplikasi MDI.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\Aplikasi MDI.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi MDI\obj\Debug\Aplikasi MDI.pdb
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\Aplikasi MDI.exe
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\Aplikasi MDI.xml
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\Aplikasi MDI.pdb
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\bin\Debug\Aplikasi MDI.exe
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\bin\Debug\Aplikasi MDI.pdb
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\bin\Debug\Aplikasi MDI.xml
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\ResolveAssemblyReference.cache
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Form1.resources
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Form2.resources
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Resources.resources
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi MDI\obj\Debug\Aplikasi MDI.vbproj.GenerateResource.Cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\Aplikasi MDI.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\Aplikasi MDI.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\Aplikasi MDI.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\bin\Debug\Aplikasi MDI.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\bin\Debug\Aplikasi MDI.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\bin\Debug\Aplikasi MDI.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Form2.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\Aplikasi_MDI.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\ResGen.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Aplikasi MDI\obj\Debug\ResGen.write.1.tlog

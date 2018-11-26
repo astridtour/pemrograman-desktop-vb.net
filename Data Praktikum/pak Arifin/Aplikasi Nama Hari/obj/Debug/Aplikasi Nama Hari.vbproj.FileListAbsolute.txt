@@ -1,0 +1,20 @@
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Aplikasi Nama Hari.vbproj.GenerateResource.Cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\bin\Debug\Aplikasi Nama Hari.exe
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\bin\Debug\Aplikasi Nama Hari.pdb
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\bin\Debug\Aplikasi Nama Hari.xml
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\obj\Debug\ResolveAssemblyReference.cache
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\obj\Debug\WindowsApplication1.Form1.resources
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\obj\Debug\WindowsApplication1.Resources.resources
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\obj\Debug\Aplikasi Nama Hari.vbproj.GenerateResource.Cache
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\obj\Debug\Aplikasi Nama Hari.exe
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\obj\Debug\Aplikasi Nama Hari.xml
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nama Hari\obj\Debug\Aplikasi Nama Hari.pdb

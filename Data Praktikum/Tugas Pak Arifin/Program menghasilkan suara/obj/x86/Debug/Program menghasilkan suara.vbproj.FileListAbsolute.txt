@@ -1,0 +1,38 @@
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program_menghasilkan_suara.Form1.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program_menghasilkan_suara.Resources.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Program menghasilkan suara.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Program menghasilkan suara.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Program menghasilkan suara.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Interop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\AxInterop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Interop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.vbproj.ResolveComReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Interop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.vbproj.ResolveComReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Program menghasilkan suara.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Program menghasilkan suara.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Program menghasilkan suara.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\Interop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\bin\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program_menghasilkan_suara.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\Program_menghasilkan_suara.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Program menghasilkan suara\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Program menghasilkan suara\obj\x86\Debug\Interop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Program menghasilkan suara\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.vbproj.ResolveComReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\Program menghasilkan suara\obj\x86\Debug\Program menghasilkan suara.pdb

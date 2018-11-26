@@ -1,0 +1,10 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\obj\x86\Debug\pengubahan_power_ke_function_pada_excel.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\bin\Debug\pengubahan power ke function pada excel.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\bin\Debug\pengubahan power ke function pada excel.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\bin\Debug\pengubahan power ke function pada excel.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\obj\x86\Debug\pengubahan power ke function pada excel.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\obj\x86\Debug\pengubahan power ke function pada excel.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\pengubahan power ke function pada excel\obj\x86\Debug\pengubahan power ke function pada excel.pdb

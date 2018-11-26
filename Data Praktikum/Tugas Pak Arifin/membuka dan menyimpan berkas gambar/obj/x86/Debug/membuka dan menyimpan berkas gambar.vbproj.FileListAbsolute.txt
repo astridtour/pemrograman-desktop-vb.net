@@ -1,0 +1,20 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\bin\Debug\membuka dan menyimpan berkas gambar.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\bin\Debug\membuka dan menyimpan berkas gambar.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\bin\Debug\membuka dan menyimpan berkas gambar.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka_dan_menyimpan_berkas_gambar.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka_dan_menyimpan_berkas_gambar.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka dan menyimpan berkas gambar.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka dan menyimpan berkas gambar.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka dan menyimpan berkas gambar.pdb
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka dan menyimpan berkas gambar.exe
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka dan menyimpan berkas gambar.xml
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka dan menyimpan berkas gambar.pdb
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\bin\Debug\membuka dan menyimpan berkas gambar.exe
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\bin\Debug\membuka dan menyimpan berkas gambar.pdb
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\bin\Debug\membuka dan menyimpan berkas gambar.xml
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka_dan_menyimpan_berkas_gambar.Form1.resources
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka_dan_menyimpan_berkas_gambar.Resources.resources
+E:\DAPRI\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\membuka dan menyimpan berkas gambar\obj\x86\Debug\membuka dan menyimpan berkas gambar.vbproj.GenerateResource.Cache

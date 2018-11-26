@@ -1,0 +1,24 @@
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form1.resources
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form2.resources
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form3.resources
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form4.resources
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form5.resources
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Resources.resources
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\astrrid\documents\visual studio 2010\Projects\Praktikum-01\Praktikum-01\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form2.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form3.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form4.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Form5.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum_01.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\bin\Debug\Praktikum-01.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\bin\Debug\Praktikum-01.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\bin\Debug\Praktikum-01.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum-01.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum-01.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\Praktikum-01\Praktikum-01\obj\x86\Debug\Praktikum-01.pdb

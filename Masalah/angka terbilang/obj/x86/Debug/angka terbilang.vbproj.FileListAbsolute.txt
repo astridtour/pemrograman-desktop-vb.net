@@ -1,0 +1,54 @@
+D:\tugas praktikum\angka terbilang\bin\Debug\angka terbilang.exe
+D:\tugas praktikum\angka terbilang\bin\Debug\angka terbilang.pdb
+D:\tugas praktikum\angka terbilang\bin\Debug\angka terbilang.xml
+D:\tugas praktikum\angka terbilang\bin\Debug\Interop.WMPLib.dll
+D:\tugas praktikum\angka terbilang\bin\Debug\AxInterop.WMPLib.dll
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\Interop.WMPLib.dll
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\angka terbilang.vbproj.ResolveComReference.cache
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\angka_terbilang.Form1.resources
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\angka_terbilang.Resources.resources
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\angka terbilang.exe
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\angka terbilang.xml
+D:\tugas praktikum\angka terbilang\obj\x86\Debug\angka terbilang.pdb
+E:\pribadi\Masalah\angka terbilang\obj\x86\Debug\Interop.WMPLib.dll
+E:\pribadi\Masalah\angka terbilang\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\pribadi\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.vbproj.ResolveComReference.cache
+E:\pribadi\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.exe
+E:\pribadi\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.xml
+E:\pribadi\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.pdb
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\Interop.WMPLib.dll
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.vbproj.ResolveComReference.cache
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.exe
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.xml
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.pdb
+E:\DAPRI\Masalah\angka terbilang\bin\Debug\angka terbilang.exe
+E:\DAPRI\Masalah\angka terbilang\bin\Debug\angka terbilang.pdb
+E:\DAPRI\Masalah\angka terbilang\bin\Debug\angka terbilang.xml
+E:\DAPRI\Masalah\angka terbilang\bin\Debug\Interop.WMPLib.dll
+E:\DAPRI\Masalah\angka terbilang\bin\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\angka_terbilang.Form1.resources
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\angka_terbilang.Resources.resources
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Masalah\angka terbilang\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\Interop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.vbproj.ResolveComReference.cache
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.exe
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.xml
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\angka terbilang.pdb
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\bin\Debug\angka terbilang.exe
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\bin\Debug\angka terbilang.pdb
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\bin\Debug\angka terbilang.xml
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\bin\Debug\Interop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\bin\Debug\AxInterop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\angka_terbilang.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\angka_terbilang.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Masalah\angka terbilang\obj\x86\Debug\GenerateResource.write.1.tlog

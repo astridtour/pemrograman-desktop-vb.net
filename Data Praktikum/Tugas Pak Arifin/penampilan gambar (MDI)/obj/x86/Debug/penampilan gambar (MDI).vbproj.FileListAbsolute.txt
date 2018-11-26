@@ -1,0 +1,12 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\bin\Debug\penampilan gambar (MDI).exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\bin\Debug\penampilan gambar (MDI).pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\bin\Debug\penampilan gambar (MDI).xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\penampilan_gambar__MDI_.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\penampilan_gambar__MDI_.Form2.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\penampilan_gambar__MDI_.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\penampilan gambar (MDI).exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\penampilan gambar (MDI).xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\penampilan gambar (MDI)\obj\x86\Debug\penampilan gambar (MDI).pdb

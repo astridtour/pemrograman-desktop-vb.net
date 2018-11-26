@@ -1,0 +1,11 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\bin\Debug\aplikasi nama hari UAS.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\bin\Debug\aplikasi nama hari UAS.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\bin\Debug\aplikasi nama hari UAS.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\aplikasi_nama_hari_UAS.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\aplikasi_nama_hari_UAS.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\aplikasi nama hari UAS.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\aplikasi nama hari UAS.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\aplikasi nama hari UAS\obj\x86\Debug\aplikasi nama hari UAS.pdb

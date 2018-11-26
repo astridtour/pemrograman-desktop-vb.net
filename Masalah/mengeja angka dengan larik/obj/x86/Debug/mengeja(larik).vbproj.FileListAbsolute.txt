@@ -1,0 +1,12 @@
+E:\DAPRI\Masalah\mengeja angka dengan larik\obj\x86\Debug\Interop.WMPLib.dll
+E:\DAPRI\Masalah\mengeja angka dengan larik\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DAPRI\Masalah\mengeja angka dengan larik\obj\x86\Debug\mengeja(larik).vbproj.ResolveComReference.cache
+E:\DAPRI\Masalah\mengeja angka dengan larik\obj\x86\Debug\UTS.exe
+E:\DAPRI\Masalah\mengeja angka dengan larik\obj\x86\Debug\UTS.xml
+E:\DAPRI\Masalah\mengeja angka dengan larik\obj\x86\Debug\UTS.pdb
+E:\DATA PRAKTIKUM VB.NET\Masalah\mengeja angka dengan larik\obj\x86\Debug\Interop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Masalah\mengeja angka dengan larik\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\DATA PRAKTIKUM VB.NET\Masalah\mengeja angka dengan larik\obj\x86\Debug\mengeja(larik).vbproj.ResolveComReference.cache
+E:\DATA PRAKTIKUM VB.NET\Masalah\mengeja angka dengan larik\obj\x86\Debug\UTS.exe
+E:\DATA PRAKTIKUM VB.NET\Masalah\mengeja angka dengan larik\obj\x86\Debug\UTS.xml
+E:\DATA PRAKTIKUM VB.NET\Masalah\mengeja angka dengan larik\obj\x86\Debug\UTS.pdb

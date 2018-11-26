@@ -1,0 +1,14 @@
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb_6._0__1_.Latihanvb61.resources
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb_6._0__1_.Resources.resources
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Latihanku\vb 6.0 (1)\bin\Debug\vb 6.0 (1).exe
+E:\DAPRI\Latihanku\vb 6.0 (1)\bin\Debug\vb 6.0 (1).pdb
+E:\DAPRI\Latihanku\vb 6.0 (1)\bin\Debug\vb 6.0 (1).xml
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb 6.0 (1).exe
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb 6.0 (1).xml
+E:\DAPRI\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb 6.0 (1).pdb
+E:\DATA PRAKTIKUM VB.NET\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb 6.0 (1).exe
+E:\DATA PRAKTIKUM VB.NET\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb 6.0 (1).xml
+E:\DATA PRAKTIKUM VB.NET\Latihanku\vb 6.0 (1)\obj\x86\Debug\vb 6.0 (1).pdb

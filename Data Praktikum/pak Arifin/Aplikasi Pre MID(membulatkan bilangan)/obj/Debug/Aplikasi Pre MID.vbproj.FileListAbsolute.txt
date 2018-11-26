@@ -1,0 +1,12 @@
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\bin\Debug\Aplikasi Pre MID.exe
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\bin\Debug\Aplikasi Pre MID.pdb
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\bin\Debug\Aplikasi Pre MID.xml
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\WindowsApplication1.Form1.resources
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\WindowsApplication1.Form2.resources
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\WindowsApplication1.Resources.resources
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\Aplikasi Pre MID.exe
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\Aplikasi Pre MID.xml
+D:\Data Praktikum\pak Arifin\Aplikasi Pre MID(membulatkan bilangan)\obj\Debug\Aplikasi Pre MID.pdb

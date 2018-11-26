@@ -1,0 +1,22 @@
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\bin\Debug\Menghitung persentase pada bilangan acak.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\bin\Debug\Menghitung persentase pada bilangan acak.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\bin\Debug\Menghitung persentase pada bilangan acak.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung_persentase_pada_bilangan_acak.Form1.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung_persentase_pada_bilangan_acak.Resources.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung persentase pada bilangan acak.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung persentase pada bilangan acak.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung persentase pada bilangan acak.pdb
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung persentase pada bilangan acak.exe
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung persentase pada bilangan acak.xml
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung persentase pada bilangan acak.pdb
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\bin\Debug\Menghitung persentase pada bilangan acak.exe
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\bin\Debug\Menghitung persentase pada bilangan acak.pdb
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\bin\Debug\Menghitung persentase pada bilangan acak.xml
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung_persentase_pada_bilangan_acak.Form1.resources
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\Menghitung_persentase_pada_bilangan_acak.Resources.resources
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Masalah\Menghitung persentase pada bilangan acak\obj\x86\Debug\GenerateResource.write.1.tlog

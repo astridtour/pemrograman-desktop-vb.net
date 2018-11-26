@@ -1,0 +1,22 @@
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan_bilangan_bulat_ke_ratusan.Form1.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan_bilangan_bulat_ke_ratusan.Resources.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\bin\Debug\pembulatan bilangan bulat ke ratusan.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\bin\Debug\pembulatan bilangan bulat ke ratusan.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\bin\Debug\pembulatan bilangan bulat ke ratusan.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.exe
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.xml
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.pdb
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan_bilangan_bulat_ke_ratusan.Form1.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan_bilangan_bulat_ke_ratusan.Resources.resources
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAPRI\Data Praktikum\Pemrograman VB.Net Dasar\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAPRI\Masalah\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.exe
+E:\DAPRI\Masalah\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.xml
+E:\DAPRI\Masalah\pembulatan bilangan bulat ke ratusan\obj\x86\Debug\pembulatan bilangan bulat ke ratusan.pdb

@@ -1,0 +1,24 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\bin\Debug\menghitung luas segitiga1.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\bin\Debug\menghitung luas segitiga1.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\bin\Debug\menghitung luas segitiga1.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\menghitung_luas_segitiga1.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\menghitung_luas_segitiga1.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\menghitung luas segitiga1.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\menghitung luas segitiga1.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\menghitung luas segitiga1.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga1\obj\x86\Debug\menghitung_luas_segitiga1.Form2.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\menghitung luas segitiga1.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\menghitung luas segitiga1.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\menghitung luas segitiga1.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\bin\Debug\menghitung luas segitiga1.exe
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\bin\Debug\menghitung luas segitiga1.pdb
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\bin\Debug\menghitung luas segitiga1.xml
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\menghitung_luas_segitiga1.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\menghitung_luas_segitiga1.Form2.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\menghitung_luas_segitiga1.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\menghitung luas segitiga dan Persegi Panjang\obj\x86\Debug\GenerateResource.write.1.tlog

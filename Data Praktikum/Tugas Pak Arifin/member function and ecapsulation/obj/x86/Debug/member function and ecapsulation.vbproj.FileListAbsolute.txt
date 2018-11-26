@@ -1,0 +1,5 @@
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\member function and ecapsulation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\member function and ecapsulation\obj\x86\Debug\member_function_and_ecapsulation.Form1.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\member function and ecapsulation\obj\x86\Debug\member_function_and_ecapsulation.Resources.resources
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\member function and ecapsulation\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA PRAKTIKUM VB.NET\Data Praktikum\Tugas Pak Arifin\member function and ecapsulation\obj\x86\Debug\GenerateResource.write.1.tlog

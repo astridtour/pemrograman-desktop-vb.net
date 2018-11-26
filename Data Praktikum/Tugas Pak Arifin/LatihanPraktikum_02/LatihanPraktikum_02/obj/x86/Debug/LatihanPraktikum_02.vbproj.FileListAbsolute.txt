@@ -1,0 +1,22 @@
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\bin\Debug\LatihanPraktikum_02.exe
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\bin\Debug\LatihanPraktikum_02.pdb
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\bin\Debug\LatihanPraktikum_02.xml
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.Form1.resources
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.Resources.resources
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.exe
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.xml
+c:\users\astrrid\documents\visual studio 2010\Projects\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\bin\Debug\LatihanPraktikum_02.exe
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\bin\Debug\LatihanPraktikum_02.pdb
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\bin\Debug\LatihanPraktikum_02.xml
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.Form1.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\LatihanPraktikum_02.Resources.resources
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data Praktikum\Pemrograman VB.Net Dasar\LatihanPraktikum_02\LatihanPraktikum_02\obj\x86\Debug\GenerateResource.write.1.tlog

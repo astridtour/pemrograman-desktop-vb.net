@@ -1,0 +1,13 @@
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\bin\Debug\Aplikasi Nilai Mahasiswa.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\bin\Debug\Aplikasi Nilai Mahasiswa.pdb
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\bin\Debug\Aplikasi Nilai Mahasiswa.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi_Nilai_Mahasiswa.Form1.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi_Nilai_Mahasiswa.Resources.resources
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi Nilai Mahasiswa.vbproj.GenerateResource.Cache
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi Nilai Mahasiswa.exe
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi Nilai Mahasiswa.xml
+C:\Users\ROYANDO\AppData\Local\Temporary Projects\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi Nilai Mahasiswa.pdb
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi Nilai Mahasiswa.exe
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi Nilai Mahasiswa.xml
+D:\AMIK BINUS\Semester 1\Praktikum VB.Net Lanjutan\Aplikasi Nilai Mahasiswa\obj\Debug\Aplikasi Nilai Mahasiswa.pdb
